@@ -665,7 +665,7 @@ sampler.getHeaderManager().add(new Header(&quot;Authorization&quot;,&quot;Bearer
             </elementProp>
             <elementProp name="connectionString" elementType="Argument">
               <stringProp name="Argument.name">connectionString</stringProp>
-              <stringProp name="Argument.value">InstrumentationKey=14b257b4-afc9-490a-a7cc-ae6c6dbef7fb;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/</stringProp>
+              <stringProp name="Argument.value">InstrumentationKey=e612209f-b5df-42cb-ab0f-dd1acac80f81;IngestionEndpoint=https://southindia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://southindia.livediagnostics.monitor.azure.com/</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="liveMetrics" elementType="Argument">
